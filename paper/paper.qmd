@@ -20,7 +20,6 @@ bibliography: references.bib
 library(tidyverse)
 
 data <- read_csv(here::here("data/analysis_data/analysis_data.csv"))
-
 ```
 
 
